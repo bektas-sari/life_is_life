@@ -74,11 +74,15 @@ Inspired by wellness and health tracking tools, the app gamifies the idea of lon
 
 ---
 
+## Contact
+
+Email: bektas.sari@gmail.com
+
+---
+
 **Note:** This project is for educational and entertainment purposes only. The predictions are not medically accurate.
 
 ---
 
 © 2025 Bektas SARI
 
-
-A simple and elegant Flutter app that predicts your life expectancy based on lifestyle choices like smoking, exercise, water intake, and more. Input your data, get instant results, and explore how habits might influence longevity. Perfect for awareness and fun health tracking.
