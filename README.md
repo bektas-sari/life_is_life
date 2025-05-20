@@ -1,6 +1,7 @@
 # Life Expectancy Predictor App (Flutter APP)
 
-A Flutter-based mobile application that estimates a user's **life expectancy** based on key lifestyle and demographic inputs. The app provides an intuitive user interface and calculates predicted lifespan using basic heuristics in a user-friendly format.
+A Flutter-based mobile application that estimates a user's **life expectancy** based on key lifestyle and demographic inputs. 
+The app provides an intuitive user interface and calculates predicted lifespan using basic heuristics in a user-friendly format.
 
 ## 🚀 Features
 
