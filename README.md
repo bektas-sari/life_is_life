@@ -76,16 +76,15 @@ Inspired by wellness and health tracking tools, the app gamifies the idea of lon
 
 ## 👤 Developer
 
-**Bektaş Sarı**
-PhD in Advertising, AI + Creativity researcher
-Flutter Developer & Software Educator
+**Bektaş Sarı**<br>
+PhD in Advertising, AI + Creativity researcher<br>
+Flutter Developer & Software Educator<br>
 
 - **Email:** [bektas.sari@gmail.com](mailto:bektas.sari@gmail.com)  
 - **GitHub:** [github.com/bektas-sari](https://github.com/bektas-sari)  
 - **LinkedIn:** [linkedin.com/in/bektas-sari](https://www.linkedin.com/in/bektas-sari)  
 - **Researchgate:** [researchgate.net/profile/Bektas-Sari-3](https://www.researchgate.net/profile/Bektas-Sari-3)  
 - **Academia:** [independent.academia.edu/bektassari](https://independent.academia.edu/bektassari)
-
 ---
 
 **Note:** This project is for educational and entertainment purposes only. The predictions are not medically accurate.
